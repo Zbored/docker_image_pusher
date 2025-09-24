@@ -1,1 +1,1 @@
-bitnami/minio:2025.7.23
+bitnami/minio:2025.4.22
