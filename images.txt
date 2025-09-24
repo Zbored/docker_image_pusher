@@ -1,1 +1,1 @@
-nginx:1.29.1
+bitnami/minio:2025.7.23
